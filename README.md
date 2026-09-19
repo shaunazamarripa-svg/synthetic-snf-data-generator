@@ -79,5 +79,3 @@ This is a teaching and testing dataset. It does not model clinical detail (MDS, 
 ## License
 
 MIT. See [LICENSE](LICENSE).
-# synthetic-snf-data-generator
-Fully synthetic skilled nursing facility data generator (census, ADT, stays, invoices). No PHI, standard library only.
